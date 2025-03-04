@@ -1,0 +1,2 @@
+#### Log of March 4th, 2025
+Today marks the initial step of configuring the asio stack. More testing would be required to actually implement into the chat app, but sufficiently speaking I found a really good source of learning.
